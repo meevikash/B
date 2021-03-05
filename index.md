@@ -1,3 +1,4 @@
+# Biology
 ## Chapter 1
 ```
 If a nerve membrane suddenly became equally permeable to both Na+ and K+, the membrane potential would:
