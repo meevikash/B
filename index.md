@@ -1,3 +1,79 @@
+## Chapter 1
+```
+If a nerve membrane suddenly became equally permeable to both Na+ and K+, the membrane potential would:
+
+A. Not change
+
+B. Approach the new K+ equilibrium potential
+
+C. Approach the new Na+ equilibrium potential
+
+D. Approach a value of about 0 mV correct
+
+E. Approach a constant value of about +55 mV
+```
+```
+If the concentration of K+ in the cytoplasm of an invertebrate axon is changed to a new value of 200 mM (Note: for this axon normal [K]o = 20 mM and normal [K]i = 400 mM): 
+
+A. The membrane potential would become more negative
+
+B. The K+ equilibrium potential would change by 60 mV
+
+C. The K+ equilibrium potential would be about -60 mV correct
+
+D. The K+ equilibrium potential would be about -18 mV
+
+E. An action potential would be initiated
+```
+## Chapter 2
+```
+Drug X, when applied to a nerve axon, results in both a gradual decrease in the amplitude of individual action potentials and a depolarization of the resting potential, both of which develop over a period of several hours. The drug is most likely: 
+
+A. Blocking the voltage-dependent Na+ permeability
+
+B. Blocking the voltage-dependent K+ permeability
+
+C. Blocking the (Na+ -K+) pump correct
+
+D. Blocking the process of Na+ inactivation
+
+E. Increasing the rate at which voltage-dependent changes in K+ permeability occur 
+```
+## Chapter 4
+```
+An endplate potential in a skeletal muscle cell could in principle be produced by a decreased permeability to which of the following ions(s)? (Assume that there is a finite initial permeability to each of the ions listed below and that physiological concentration gradients are present.): 
+
+A. Na+
+
+B. Na+ and Ca2+
+
+C. Ca2+
+
+D. K+ correct
+```
+## Chapter 5
+```
+An isolated nerve muscle preparation treated with a moderate dose of curare would be associated with a decrease in the (NOTE: there is more than one correct answer.)
+
+A. Frequency of MEPPs
+
+B. Amplitude of MEPPs correct
+
+C. Release of transmitter from the terminal of the motor axon triggered by a presynaptic action potential
+
+D. Amplitude of the EPP correct
+```
+```
+An isolated nerve muscle preparation exposed to a low concentration of extracellular Ca2+ would be associated with a decrease in the (NOTE: there is more than one correct answer.)
+
+A. Amplitude of the EPP
+
+B. Release of transmitter from the terminal of the motor axon triggered by a presynaptic action potential
+
+C. Influx of Ca2+ into the presynaptic terminal correct
+
+D. Amplitude of MEPPs
+```
 ## Chapter 8
 ```
 Q1. Which of the following cell types proliferate in the CNS in response to injury?
