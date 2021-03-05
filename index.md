@@ -1,19 +1,21 @@
 ## Chapter 8
 ```
-Q1. Which of the following cell types proliferate in the CNS in response to injury? (Note: There is more than one correct answer.)
+Q1. Which of the following cell types proliferate in the CNS in response to injury?
+(Note: There is more than one correct answer.)
 
-A. Neurons wrong
+A. Neurons 
 
-B. Microglia
+B. Microglia correct
 
-C. Fibrous astrocytes
+C. Fibrous astrocytes correct
 
-D. Protoplasmic astrocytes
+D. Protoplasmic astrocytes correct
 
-E. Macrophages
+E. Macrophages correct
 ```
 ```
-Q2. Which of the following cell types is responsible for the maintenance of pH of the extracellular space of the CNS? (Note: There is more than one correct answer.)
+Q2. Which of the following cell types is responsible for the maintenance of pH
+of the extracellular space of the CNS? (Note: There is more than one correct answer.)
 
 A. Microglia
 
@@ -76,4 +78,88 @@ C. ... are eliminated by oligodendrocytes.
 D. ... are eliminated if they are not active. correct
 
 E. ... are eliminated by agrin.
+```
+
+## Chapter 10
+```
+Which of the following processes dictate the amount of neurotransmitter released from a nerve ending on a short-term, minute-to-minute, basis? (NOTE: there is more than one correct answer.)
+
+A. Neurotransmitter synthesis correct
+
+B. Vesicle synthesis in the cell soma
+
+C. Vesicle recycling in the nerve ending correct
+
+D. Axoplasmic transport
+
+E. Calcium availability correct
+```
+
+## Chapter 11
+```
+Which of the following is effective in increasing the level of acetylcholine in the synapse or neuromuscular junction? (NOTE: There is more than one correct answer.)
+
+A. Increasing dietary acetyl coenzyme A
+
+B. Increasing the production of acetyl coenzyme A correct
+
+C. Increasing dietary choline
+
+D. Increasing choline uptake correct
+
+E. Inhibition of the enzyme, acetylcholinesterase correct
+```
+## Chapter 12
+```
+Which of the following can be administered orally to increase dopamine levels in the CNS? (NOTE: There is more than one correct answer.)
+
+A. Dopamine
+
+B. Tyrosine
+
+C. Acetyl coenzyme A
+
+D. l-DOPA correct
+
+E. l-DOPA plus an aromatic L-amino acid decarboxylase inhibitor correct
+```
+## Chapter 13
+```
+Glutamate up-take into glial cells:
+
+A. Is a dead-end pathway
+
+B. Is by passive diffusion
+
+C. Results in its metabolism into glutamine by glutaminase
+
+D. Results in its metabolism into glutamine by glutamine synthase correct
+
+E. Results in its metabolism into GABA by glutamic acid decarboxylase
+```
+```
+NMDA receptors:
+
+A. Require membrane depolarization to permit ion flow correct
+
+B. Require membrane depolarization to permit ion flow and are NOT permeable to Ca2+
+
+C. Are NOT permeable to Na+
+
+D. Bind to G-proteins
+
+E. Have seven-membrane spanning structure consisting of a single subunit
+```
+```
+GABA and glycine produce inhibitory responses by:
+
+A. Opening ion channels permeable to K+.
+
+B. Opening ion channels permeable to Na+.
+
+C. Opening ion channels permeable to Cl-. correct
+
+D. Binding to G-protein coupled receptors.
+
+E. Closing ion channels permeable to K+ permeability occur.
 ```
