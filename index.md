@@ -65,30 +65,15 @@ D. Filopodium
 
 E. Lamellipodium
 ```
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Question 4ABCDE
-Synapses...
-
+```
+Q6. Synapses
 A. ... are stabilized by growth factor withdrawal.
 
 B. ... are stabilized by chemoattraction.
 
 C. ... are eliminated by oligodendrocytes.
 
-D. ... are eliminated if they are not active.
+D. ... are eliminated if they are not active. correct
 
 E. ... are eliminated by agrin.
+```
