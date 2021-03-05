@@ -163,3 +163,30 @@ D. Binding to G-protein coupled receptors.
 
 E. Closing ion channels permeable to K+ permeability occur.
 ```
+## Chapter 14
+```
+Neuropeptides are present in synaptic terminals because they are:
+
+A. Synthesized in the terminal.
+
+B. Carried by fast axonal transport correct
+
+C. Carried by diffusion
+
+D. Carried by slow axonal transport
+
+E. Taken-up from the extracellular space
+```
+```
+Nitric Oxide:
+
+A. Has a long life-time
+
+B. Is membrane permeable. correct
+
+C. Is non-reactive
+
+D. Is also known as laughing gas.
+
+E. Is non-toxic to cells.
+```
