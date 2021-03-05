@@ -330,3 +330,341 @@ D. Muscle contractions
 
 E. Muscle length
 ```
+## chapter 3
+```
+The spinal cord...
+
+A. Occupies the lumbar cistern
+
+B. Has twelve (12) cervical segments 
+
+C. Contains the cell bodies of postganglionic sympathetic efferent neurons
+
+D. Ends at the conus medullaris correct
+
+E. Has no arachnoid membrane
+```
+```
+Which of the following tracts crosses at the spinal cord level of entry?
+
+A. Corticospinal
+
+B. Ventral spinothalamic correct
+
+C. Ventral spinocerebellar
+
+D. Anterior spinocerebellar
+
+E. Dorsal spinocerebellar
+```
+```
+The blood supply for the corticospinal tract is derived from the:
+
+A. Vertebral arteries
+
+B. Posterior spinal arteries
+
+C. Anterior spinal artery correct
+
+D. Basilar artery
+
+E. Posterior communicating artery
+```
+```
+In the laminar somatotopic organization of the dorsal columns, the most lateral fibers represent:
+
+A. Sacral region
+
+B. Thoracic region
+
+C. Lumbar region
+
+D. Cervical region correct
+
+E. Coccygeal region
+
+```
+```
+Syringomyelia syndrome occurs with selective spinal lesions in the:
+
+A. Dorsal root ganglia
+
+B. Fibers decussating in the spinal white commissure correct
+
+C. Fibers of the anterior spinal thalamic tract
+
+D. Ventral root ganglia
+
+E. Fibers of the dorsal spinocerebellar tract
+```
+```
+Spinal root neurons are:
+
+A. Neurons in the laminae II
+
+B. Motor neurons
+
+C. Somatic efferent neurons correct
+
+D. Internuncial neurons
+
+E. Commissural neurons
+```
+## Chapter 4
+```
+Match: C Fibers
+A. Vibration
+
+B. Static muscle stretch
+
+C. Dull, burning pain correct
+
+D. Isotonic muscle contraction This is an INCORRECT match.
+
+E. Sharp "fast" pain
+
+F. Dynamic muscle stretch
+```
+```
+Match: A delta fibers
+A. Vibration
+
+B. Static muscle stretch
+
+C. Dull, burning pain
+
+D. Isotonic muscle contraction
+
+E. Sharp "fast" pain correct
+
+F. Dynamic muscle stretch
+
+```
+```
+Match: A beta fibers
+A. Vibration correct
+
+B. Static muscle stretch
+
+C. Dull, burning pain
+
+D. Isotonic muscle contraction
+
+E. Sharp "fast" pain
+
+F. Dynamic muscle stretch
+```
+```
+Question
+The neospinothalamic tract crosses the midline in which of the following structures?
+
+A. Anterior white commissure correct
+
+B. Internal arcuate fibers
+
+C. Spinal trigeminal tract
+
+D. Dorsal columns
+
+E. Medial lemniscus
+
+```
+```
+The medial lemniscus crosses the midline at which level of the nervous system?
+
+A. Spinal cord
+
+B. Medulla correct
+
+C. Pons
+
+D. Mesencephalon
+
+E. Diencephalon
+```
+## Chapter 5
+```
+Primary somatosensory cortex
+A. Insula
+
+B. Postcentral gyrus correct
+
+C. Precentral gyrus
+
+D. Posterior parietal lobe
+
+E. Parietal lobe pars opercularis
+
+```
+```
+Secondary somatosensory cortex
+A. Insula
+
+B. Postcentral gyrus
+
+C. Precentral gyrus
+
+D. Posterior parietal lobe
+
+E. Parietal lobe pars opercularis correct
+```
+```
+Somatosensory association cortex
+A. Insula
+
+B. Postcentral gyrus
+
+C. Precentral gyrus
+
+D. Posterior parietal lobe correct
+
+E. Parietal lobe pars opercularis
+
+```
+```
+Select the best answer: Electrical stimulation of the posterior paracentral lobe will result in the perception of a somatosensory stimulus at the _______.
+
+A. tongue
+
+B. hand
+
+C. arm
+
+D. chest
+
+E. foot corrcet
+```
+```
+Question 2
+Select the best answer: Damage to the posterior funiculus at spinal cord level T6 produces a loss ______.
+
+A. of sharp, cutting pain sensation
+
+B. that is contralesional
+
+C. of sensastion in the arms and hands
+
+D. that produces a positive Rhomberg sign corrcet
+
+E. that is called the Brown-Sequard syndrome
+```
+## Chapter 6
+```
+All of the following are released in response to noxious stimulation at the damaged site(s) EXCEPT:
+
+A. Globulin
+
+B. Dopamine
+
+C. Arachnoid Acid correct
+
+D. Acetylcholine
+
+E. Histamine
+```
+```
+C fibers transmit which type of pain?
+
+A. Pricking pain
+
+B. Stimulation produced analgesia
+
+C. Referred pain
+
+D. Burning pain correct
+
+E. Sharp pain
+```
+```
+C fibers are
+
+A. small myelinated fibers which carry sharp pain
+
+B. large unmyelinated fibers which carry burning pain 
+
+C. small unmyelinated fibers which carry burning pain correct
+
+D. large myelinated fibers which carry sharp pain
+
+E. large myelinated fibers which carry temperature sensation
+```
+```
+Aspirin acts to block the formation of
+
+A. Bradykinins
+
+B. Prostaglandins corrcet
+
+C. Histamine
+
+D. Dopamine
+
+E. Serotonin
+```
+```
+A delta fibers transmit primarily
+
+A. burning diffuse pain information
+
+B. pricking localized pain information corrcet
+
+C. aching diffuse pain information
+
+D. visceral pain information
+
+E. phantom pain information
+
+```
+```
+Pain receptors/nociceptors are
+
+A. bipolar cells
+
+B. free nerve endings correct
+
+C. epithelial receptors
+
+D. Pacinian corpuscles
+
+E. Meissner corpuscles
+```
+```
+Double pain sensation results from
+
+A. two different pain receptors
+
+B. two different pathways, differing in the number of the synapses
+
+C. two different fibers which conduct the impulses at different velocities correct
+
+D. two different neurotransmitters
+
+E. two different neuropeptides
+```
+```
+A delta fibers transmit which type of pain to VPL?
+
+A. Pricking pain correct
+
+B. Deep pain
+
+C. Visceral pain
+
+D. Burning pain
+
+E. Aching pain
+
+```
+```
+Sharp pain, induced by a skin cut for example, is classified by
+
+A. Burning pain
+
+B. Aching pain
+
+C. Somatic pain
+
+D. Pricking pain correct
+
+E. Visceral pain
+```
