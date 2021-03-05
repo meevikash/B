@@ -267,3 +267,66 @@ D. Is also known as laughing gas.
 
 E. Is non-toxic to cells.
 ```
+# Section 2
+## Chapter 1
+```
+A. Fine touch
+
+B. Vibration
+
+C. Flutter
+
+D. Muscle tension correct
+
+E. Muscle length
+```
+```
+Meissner corpuscle
+A. Fine touch
+
+B. Vibration
+
+C. Flutter correct
+
+D. Muscle contractions
+
+E. Muscle length
+```
+```
+Merkel complex
+A. Fine touch corrcect
+
+B. Vibration
+
+C. Flutter
+
+D. Muscle contractions
+
+E. Muscle length
+
+```
+```
+Free nerve endings
+A. Fine touch
+
+B. Vibration
+
+C. Flutter
+
+D. Muscle contractions
+
+E. Pain cotrrect
+
+```
+```
+Pacinian corpuscle
+A. Fine touch
+
+B. Vibration correct
+
+C. Flutter
+
+D. Muscle contractions
+
+E. Muscle length
+```
