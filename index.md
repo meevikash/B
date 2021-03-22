@@ -669,3 +669,104 @@ D. Pricking pain correct
 
 E. Visceral pain
 ```
+## Chapter 7
+```
+Mr. John Thomas experiences visceral pain around the upper left lung. All of the following carry this nociceptive information EXCEPT the:
+
+A. somatic nerves
+
+B. paleospinothalamic tract
+
+C. sympathetic nerves
+
+D. neospinothalamic tract correct
+
+E. archispinothalamic tract
+```
+```
+A surgeon attempting to treat chronic pain from the pelvic region will suggest to make a lesion in the:
+
+A. somatosensory cortex
+
+B. ventroposterior medial thalamus
+
+C. anterior white commissure
+
+D. dorsal column
+
+E. anterior lateral funiculus correct
+```
+```
+In Brown-Sequard syndrome:
+
+A. Tactile and pain sensation are lost contralaterally at different levels below the lesion.
+
+B. Thermal sensation is lost in the ipsilateral side above the lesion.
+
+C. Kinesthetic and tectile senses are lost ipsilaterally below the lesion. correct
+
+D. The withdrawal reflex is lost.
+
+E. Atrophy is developed in the muscles below the lesion.
+```
+```
+Sharp localized pain is transmitted by:
+
+A. archispinothalamic tract
+
+B. Paleospinothalamic tract
+
+C. Neospinothalamic tract This answer is CORRECT!
+
+Sharp pain is carried by the neospinothalamic tract.
+
+D. Sympathetic nerves
+
+E. Parasympathetic nerves
+```
+```
+Select the best answer: Pain impulses arising within the abdominal and thoracic cavities may reach the CNS by:
+
+A. somatic nerves innervating correct
+
+B. sympathetic nerves correct
+
+C. parasympathetic nerves correct
+
+D. none of the above 
+
+E. all of the above correct
+ ```
+ ```
+At the level of the ventral trigeminothalamic tract, pain fibers are generally crossed or uncrossed?
+
+A. Crossed correct
+
+B. Uncrossed
+```
+```
+Cell bodies of first order pelvic visceral pain fibers are found in:
+
+A. dorsal root ganglion correct
+
+B. mesentric ganglion
+
+C. superior cervical ganglia correct
+
+D. inferior cervical ganglion
+
+E. middle cervical ganglion
+```
+```
+The following pathway is sectioned in a chordotomy for the treatment of pain:
+
+A. Lateral spinothalamic tract correct
+
+B. Ipsilateral dorsal column
+
+C. Corticospinal tract
+
+D. Spinocerebellar pathway
+
+E. Spino-olivary tract
+```
