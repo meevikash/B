@@ -770,3 +770,337 @@ D. Spinocerebellar pathway
 
 E. Spino-olivary tract
 ```
+## Chapter 8
+```
+According to the descending pain suppression theory,
+
+A. Descending spinothalamic fibers produce presynaptic inhibition of Rexed lamina VII neurons.
+
+B. Pain stimuli activate descending fibers in the dorsolateral fasciculus. This answer is CORRECT!
+
+C. Mechanical stimulation produces descending postsynaptic inhibition of Rexed lamina VIII neurons.
+
+D. Transection of the dorsal column blocks the descending fibers producing analgesia.
+
+E. Descending corticospinal fibers produce postsynaptic inhibition of nociceptive spinal neurons will not affect pain sensation.
+```
+```
+The Melzack-Wall gate theory refers to:
+
+A. Ascending pain suppression system.
+
+B. Non-noxious input suppresses pain at the spinal cord. This answer is CORRECT!
+
+Melzack and Wall assume that peripheral non-noxious stimulation will inhibit presynaptically the pain conducting pulses at the spinal cord target cells (T cells) and will prevent pain sensation from being transmitted to higher centers.
+
+C. Electrical simulation-produced analgesia.
+
+D. Cortical control system suppresses pain.
+
+E. Descending pain suppression system.
+```
+```
+Electrical stimulation in the periaqueductal gray elicits:
+
+A. Circular movement
+
+B. Analgesia This answer is CORRECT!
+
+PAG stimulation causes the release of endorphins to the circulation which produce analgesia.
+```
+## Chapter 9
+```
+Second-order sensory neurons for taste are located in the
+
+A. Insula
+
+B. Amygdala
+
+C. Nucleus solitarius This answer is CORRECT!
+
+Afferents from the 1st order sensory neurons of the facial, glossopharyngeal and vagus nerves terminate on the 2nd order neurons int he nucleus solitarius.
+
+D. Uncus
+
+E. Trigeminal ganglion
+```
+```
+All of the following statements are correct about the olfactory receptor neurons EXCEPT:
+
+A. These specialized neurons are replaced about every 5- 8 weeks.
+
+B. Each neuron contains receptors which are specific for a single odorant molecule. This IS the exception, and is an incorrect statement!
+
+Olfactory receptors interact with many different odorant molecules with the generation of a neural code that permits us to discriminate between odors.
+
+C. The axon of each olfactory neuron synapses in only one glomerulus in the olfactory bulb.
+
+D. Odorant molecules interact with receptors coupled to a G protein called Golf.
+```
+```
+Which of the following cells are 2nd order neurons with axons projecting into the anterior olfactory cortex?
+
+A. Mitral cells This answer is CORRECT!
+
+Mitral cells and tufted cells in the lamina of the olfactory bulb send axons into the olfactory cortex.
+
+B. Glomerular cells correct
+
+C. Periglomerular cells
+
+D. Granule cells
+```
+## Chapter 10
+```
+Linear acceleration is transduced in the:
+
+A. Cupula
+
+B. Cristae
+
+C. Maculae This answer is CORRECT!
+
+The maculae are more sensitive to linear, not angular acceleration.
+
+D. Organ of Corti
+
+E. Scarpa's ganglion
+```
+```
+Which sensory receptor is most sensitive to angular acceleration?
+
+A. Crista This answer is CORRECT!
+
+B. Utricle
+
+C. Saccule
+
+D. Organ of Corti
+
+```
+```
+Which of the following is correct regarding vestibular nuclei?
+
+A. There are six
+
+B. They are located beneath the floor of the third ventricle
+
+C. They receive afferent fibers from the spinal ganglion
+
+D. They project only to the cerebellum
+
+E. They are connected to the 3rd, 4th, and 6th cranial nerve nuclei by the medial longitudinal fasciculus. This answer is CORRECT!
+```
+```
+Meniere's disease is associated with
+
+A. loss of vestibular hair cells
+
+B. damage to the vestibular nuclei
+
+C. damage to cranial nerve VIII
+
+D. damage to Scarpa's ganglion
+
+E. excess endolymph in the membranous labyrinth This answer is CORRECT!
+```
+## Chapter 11
+```
+The vestibular ocular recflex (VOR) depends on all of the following EXCEPT:
+
+A. trochlear nucleus
+
+B. medial longitudinal fasciculus
+
+C. nystagmus
+
+D. superior vestibular nucleus
+
+E. lateral vestibular nucleus This answer is CORRECT!
+
+The lateral vestibular nucleus contributes to a descending, not ascending, pathway, and is thus NOT involved in the VOR.
+
+ ```
+ ```
+Which descending vestibular pathway is ipsilateral and reaches sacral levels of the spinal cord?
+
+A. lateral vestibular pathway This answer is CORRECT!
+
+B. medial vestibular pathway
+
+C. medial longitudinal fasciculus
+
+D. trapezoid body
+```
+## Chapter 12
+```
+High frequencies are transduced
+
+A. at the apex of the cochlea
+
+B. at the base of the cochlea This answer is CORRECT!
+
+C. throughout the cochlea
+
+D. by vibrations of the stapes
+
+E. at the superior temporal gyrus
+```
+```
+Transduction of mechanical to neural signals occurs
+
+A. at the base of the outer hair cells
+
+B. at K+ channels in stereocilia This answer is CORRECT!
+
+Movement of the cilia opens potassium channels. The influx of potassium causes a subsequent influx of calcium and a receptor potential that can cause an action potential in the afferent dendrites.
+
+C. between the oval and round windows
+
+D. in the scala vestibuli
+
+E. in the scala tympani
+```
+```
+Primary auditory cortex is located in
+
+A. parietal lobe
+
+B. lateral surface of occipital lobe
+
+C. superior temporal gyrus This answer is CORRECT!
+
+D. parahippocampal gyrus
+
+E. middle frontal gyrus
+```
+```
+Which of the following participate in audition?
+
+A. trigeminal nerve
+
+B. lateral lemniscus This answer is CORRECT!
+
+C. medial lemniscus
+
+D. pontine nuclei
+
+E. oculomotor nerve
+```
+## Chapter 13
+```
+Afferent activity in the central auditory system generally proceeds through the following areas. Which is THIRD in the sequence?
+
+A. cochlear nucleus
+
+B. inferior colliculus This answer is CORRECT!
+
+All auditory afferents synapse in this midbrain structure.
+
+C. medial geniculate
+
+D. superior olivary nucleus
+
+E. superior temporal gyrus
+
+```
+```
+Auditory afferents travel through the midbrain in the
+
+A. medial lemniscus
+
+B. lateral lemniscus This answer is CORRECT!
+
+C. medial longitudinal fasciculus
+
+D. trapezoid body
+
+E. sublenticular portion of the internal capsule
+```
+## Chapter 14
+```
+All of the following is characteristic of the cornea of the eye EXCEPT:
+
+A. Cataracts are formed when it is damaged. This answer is CORRECT!
+
+Cataracts form when the lens is damaged.
+
+B. It is devoid of blood vessels.
+
+C. It receives oxygen from the tear film
+
+D. Nutrients are provided by the aqueous humor
+
+E. Its refractive power is fixed for distance vision
+
+```
+```
+Which of the following account for the ability of rod bipolar cells to detect and signal light at lower illumination levels than cone bipolar cells?
+
+A. Rods are more concentrated in the fovea than the cones.
+
+B. The rod-biplar cells projections are denser than the cone-bipolar cells projections. This answer is CORRECT!
+
+C. Rods have thicker outer segments than the cones.
+
+D. Photopigments in rods are broken down by the narrowest bandwidth of light.
+```
+## Chapter 15
+```
+Which of the following are characteristic of the primary visual cortex "blob" neurons? They:
+
+A. are binocular and exhibit ocular dominance.
+
+B. have color opponent receptive fields. This answer is CORRECT!
+
+C. require a specific stimulus orientation.
+
+D. have elongated receptive fields.
+
+E. synapse with magnocellular lateral geniculate neurons.
+```
+```
+Make the best match between the below listed condition and the visual field defect. Match: occlusional of the left posterior cerebral artery
+
+A. Contralesional superior quadranopia with macular sparing
+
+B. Contralesional inferior quadranopia with macular sparing
+
+C. Contralesional homonymous hemianopia with macular sparing This answer is CORRECT!
+
+There will be macular sparing because the caudal and lateral striate cortex receives a collateral blood supply from branches of the middle cerebral artery.
+
+D. Bitemporal hemianopia
+
+E. Inability to recognize objects or colors
+```
+```
+Make the best match between the below listed condition and the visual field defect. Match: trauma to the left temporal lobe
+
+A. Contralesional superior quadranopia with macular sparing This answer is CORRECT!
+
+The sublenticular optic radiation fibers carry information about the contralateral superior quadrant of the visual fields and loop through the temporal lobe.
+
+B. Contralesional inferior quadranopia with macular sparing
+
+C. Contralesional homonymous hemianopia with macular sparing
+
+D. Bitemporal hemianopia
+
+E. Inability to recognize objects or colors
+```
+```
+Make the best match between the below listed condition and the visual field defect. Match: lesion of the optic chiasm
+
+A. Contralesional superior quadranopia with macular sparing
+
+B. Contralesional inferior quadranopia with macular sparing
+
+C. Contralesional homonymous hemianopia with macular sparing
+
+D. Bitemporal hemianopia This answer is CORRECT!
+
+The optic chiasm consists of decussating retinal ganglion axons that originate in the nasal hemiretinas of the two eyes and carry information about the temporal hemifields of the two eyes.
+
+E. Inability to recognize objects or colors
+```
