@@ -1703,3 +1703,62 @@ E. Temporal lobe This answer is CORRECT!
 
 The temporal lobes and the inferior frontal lobes are frequently involved in traumatic brain injury. The continued forward movement of the brain within the bony cranial vault which has suddenly decelerated at impact leads to these anterior brain structures striking the inside of the skull with great force creating contusion in these areas.
 ```
+## Chapter 8
+```
+According to the descending pain suppression theory,
+
+A. Descending spinothalamic fibers produce presynaptic inhibition of Rexed lamina VII neurons.
+
+B. Pain stimuli activate descending fibers in the dorsolateral fasciculus. This answer is CORRECT!
+
+C. Mechanical stimulation produces descending postsynaptic inhibition of Rexed lamina VIII neurons.
+
+D. Transection of the dorsal column blocks the descending fibers producing analgesia.
+
+E. Descending corticospinal fibers produce postsynaptic inhibition of nociceptive spinal neurons will not affect pain sensation.
+```
+```
+The Melzack-Wall gate theory refers to:
+
+A. Ascending pain suppression system.
+
+B. Non-noxious input suppresses pain at the spinal cord. This answer is CORRECT!
+
+Melzack and Wall assume that peripheral non-noxious stimulation will inhibit presynaptically the pain conducting pulses at the spinal cord target cells (T cells) and will prevent pain sensation from being transmitted to higher centers.
+
+C. Electrical simulation-produced analgesia.
+
+D. Cortical control system suppresses pain.
+
+E. Descending pain suppression system.
+```
+```
+Electrical stimulation in the periaqueductal gray elicits:
+
+A. Circular movement
+
+B. Analgesia This answer is CORRECT!
+
+PAG stimulation causes the release of endorphins to the circulation which produce analgesia.
+
+C. Catatonia
+
+D. Tremors
+
+E. Hyperactivity
+```
+```
+The following nuclei are involved in the serotonergic descending modulation system of pain:
+
+A. Locus coeruleus
+
+B. Central gray
+
+C. Ventral trigeminal area
+
+D. Raphe nuclei This answer is CORRECT!
+
+Stimulation at the central gray and the Raphe nuclei produces analgesia via dorsolateral funiculus descendign fibers.
+
+E. Ventro-posterior medial thalamus
+```
