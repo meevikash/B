@@ -1104,3 +1104,602 @@ The optic chiasm consists of decussating retinal ganglion axons that originate i
 
 E. Inability to recognize objects or colors
 ```
+# Unit 3
+## Chapter 1
+```
+Types of fibers contained within muscle spindles include...
+
+A. Dynamic nuclear bag fibers This answer is CORRECT!
+
+B. Dynamic nuclear chain fibers
+
+C. Group Ib afferent fibers
+
+D. Extrafusal fibers
+
+E. Group IV afferent fibers
+
+```
+```
+Muscle force is controlled in part by...
+
+A. Alpha-gamma coactivation
+
+B. Intrafusal fibers
+
+C. Rate code This answer is CORRECT!
+
+D. Golgi tendon organs
+
+E. Gamma motor neurons
+```
+## Chapter 2
+```
+The lateral corticospinal tract...
+
+A. Undergoes a 50% decussation in the caudal medulla.
+
+B. Arises exclusively from the primary motor cortex.
+
+C. Is an uncrossed pathway.
+
+D. Plays a major role in the fine control of distal musculature. This answer is CORRECT!
+
+E. Terminates primarily in the posterior (dorsal) horn.
+```
+```
+In reciprocal excitation of the Golgi tendon reflex, stimulation of...
+
+A. Ia afferent fibers causes inhibition of synergistic muscles.
+
+B. Ib afferent fibers causes inhibition of antagonist muscles.
+
+C. Ia afferent fibers causes inhibition of antagonist muscles.
+
+D. Ib afferent fibers causes excitation of antagonist muscles. This answer is CORRECT!
+
+E. Ia afferent fibers causes excitation of muscles on the contralateral side.
+```
+## Chapter 3
+```
+Betz cells are most abundant in layer...
+
+A. IV of somatosensory cortex.
+
+B. V of somatosensory cortex.
+
+C. IV of motor cortex.
+
+D. V of motor cortex. This answer is CORRECT!
+
+E. III of motor cortex.
+```
+```
+A corticospinal neuron in primary motor cortex can do all of the following EXCEPT:
+
+A. Project to multiple motor neuron pools in the spinal cord.
+
+B. Participate in the initiation of movement.
+
+C. Code for the amount of force of individual muscles. This answer is CORRECT!
+
+This is a FALSE statement. Motor cortex neurons code for the force of individual movements, not individual muscles. Lower motor neurons (alpha motor neurons) encode the force of individual muscles.
+
+D. Code for the direction of movement.
+
+E. Code for the extent of movement.
+```
+## Chapter 4
+```
+Which of the basal ganglia nuclei receive direct cortical input?
+
+A. Claustrum and amygdala.
+
+B. Centromedian nucleus and subthalamic nucleus.
+
+C. Substantia nigra pars compacta and globus pallidus external.
+
+D. Globus pallidus internal and substantia nigra pars reticulata.
+
+E. Caudate and putamen. This answer is CORRECT.
+
+The caudate and putamen are the only parts of the basal ganglia that receive direct cortical input.
+```
+```
+All of the following statements about the basal ganglia are correct EXCEPT:
+
+A. The net effect of excitation of the direct pathway is to inhibit cortex. This answer is CORRECT!
+
+This is a FALSE statement. The net effect of excitation of the direct pathway is to excite cortex.
+
+B. Dopaminergic neurons of the substantia nigra signal unexpected reward or unexpected absence of reward.
+
+C. The basal ganglia have both motor and cognitive functions.
+
+D. The subthalamic nucleus is the origin of the only purely excitatory pathway within the basal ganglia intrinsic circuitry.
+
+E. Parkinson's disease results from damage to the basal ganglia.
+```
+## Chapter 5
+```
+The spinocerebellum contains the...
+
+A. vermis and intermediate zone of the anterior and posterior lobes. This answer is CORRECT!
+
+B. Vermal and floccular parts of the flocculonodular lobe.
+
+C. Lateral portions of the cerebellum.
+
+D. Posterior lobe and interposed nuclei.
+
+E. Anterior lobe and dentate nuclei.
+```
+```
+The lateral vestibular nuclei are functionally analogous to the...
+
+A. Red nucleus
+
+B. Purkinje cells
+
+C. Basal ganglia
+
+D. Thalamus
+
+E. Deep cerebellar nuclei This answer is CORRECT!
+
+The lateral vestibular nuclei, although not contained within the cerebellum, are considered to be functionally analogous to the deep cerebellar nuclei because of their functional connectivity with the cerebellum.
+```
+## Chapter 6
+```
+Following a strenuous workout with his neighborhood team, a right-handed, 52-year-old former professional basketball player awoke the next morning with paralysis of the right lower extremity. A neurological exam revealed an exaggerated stretch reflex. There was no disturbance of position sense, pain sensation or tactile discrimination. Where is the problem localized?
+
+A. Anterior (ventral) horn, right side.
+
+B. Cerebellum, right side.
+
+C. Posterior (dorsal) columns of spinal cord, right side.
+
+D. Left motor cortex, lateral (inferior) portion of motor map.
+
+E. Left motor cortex, medial (superior) portion of motor map. This answer is CORRECT!
+
+Lesions to the medial portion of the motor map produce contralateral paralysis of the lower parts of the body.
+```
+```
+All of the following are examples of dyskinesia EXCEPT:
+
+A. Athetosis
+
+B. Chorea
+
+C. Tremors
+
+D. Rigidity This answer is CORRECT!
+
+Rigidity is not an involuntary movement.
+
+E. Ballismus
+```
+## CHapter 7
+```
+A patient is capable of pupillary constriction during accommodation but not in response to a light directed to either eye. The lesion is most likely present in the...
+
+A. optic nerve
+
+B. abducens nucleus
+
+C. Edinger-Westphal nucleus
+
+D. pretectal areas This answer is CORRECT!
+
+The pretectal area provide bilateral input to the Edinger-Westphal nucleus for the direct and consensual pupillary light response.
+
+E. supraoculomotor nucleus
+```
+## Chapter 8
+```
+The pontine paramedian reticular formation is involved in which of the following?
+
+A. Vestibular nystagmus
+
+B. Optokinetic nystagmus
+
+C. Saccades This answer is CORRECT!
+
+The frontal eye field neurons send control signals to the pontine paramedial reticular formation for voluntary horizontal eye movements (i.e., to direct the eyes toward an object of interest on or command to direct the gaze to the left or right).
+
+D. Smooth pursuit
+
+E. Accommodation
+```
+```
+A 57-year old male with a past history of high blood pressure awakens with a terrible headache. His eyes tend to drift about and when he is asked to track a pen moving to his left, both eyes move in short, jerky steps. In contrast, both eyes move smoothly when his eyes track a pen moving to his right. Given the patient's history, a radiological study is scheduled to determine whether a stroke had occurred. The study determines the area of infarction to include which of the following?
+
+A. Left abducens nerve
+
+B. Left medial longitudinal fasciculus
+
+C. Right frontal lobe
+
+D. Right temporal lobe
+
+E. Left temporal lobe This answer is CORRECT!
+
+Neurons in the left temporal lobe (middle superior and middle temporal gyri) are involved in detecting movement of objects in space and in guiding tracking eye movements during smooth pursuit. The left tracking movement is jerky because the frontal eye field is being used to guide the eye movement in saccades. The two eyes move to the left and if the object isn't in view, the eyes make another saccade to direct them towards the expected position of the moving object.
+```
+# Unit 4
+## Chapter 1
+```
+Which of the following is not a visible boundary of the hypothalamus in a hemisected brain?
+
+A. The median eminence
+
+B. The mammillary body
+C. The optic chiasm
+D. The internal capsule This answer is CORRECT!
+E. The anterior commisure
+```
+```
+The hypothalamic sulcus is the rostral continuation of what anatomical feature of he brainstem?
+
+A. The tuberculum cinereum
+
+B. The stria medullaris
+C. The sulcus limitans This answer is CORRECT!
+D. The lateral sulcus
+E. The dorsal paramedian sulcus
+```
+```
+Which of the following pathways provides unidirectional afferent input to the hypothalamus?
+
+A. The mammillotegmental tract
+
+B. The medial forebrain bundle
+C. The fornix
+D. The dorsal longitudinal fasciculus
+E. The spinohypothalamic tract This answer is CORRECT!
+```
+```
+Which of the following characteristics best accounts for the hypothalamus being the key brain region for control of homeostasis?
+
+A. The hypothalamus is the only brain region that both sends and receives information to the body via the blood stream.
+
+B. The hypothalamus has the greatest concentration of nuclei at which physiological set points are encoded, monitored, and controlled. This answer is CORRECT!
+C. The hypothalamus is the only brain region that has both direct neural input and output to the peripheral nervous system.
+D. The hypothalamus is the key brain region for the integration of neuroendocrine and autonomic function with emotion.
+E. The hypothalamus is essential for normal circadian timing.
+```
+```
+Which of the following hypothalamic nuclei is most important for encoding the set point for daily circadian rhythms?
+
+A. supraoptic nucleus
+
+B. arcuate nucleus
+C. suprachiasmatic nucleus This answer is CORRECT!
+D. preoptic anterior nucleus
+E. paraventricular nucleus
+```
+## Chapter 2
+```
+Inhibition of ACTH secretion by cortisol is an example of what type of neuroendocrine feedback loop?
+
+A. ultra-short loop feedback
+
+B. short-loop feedback
+C. indirect long-loop feedback
+D. direct long-loop feedback This answer is CORRECT!
+E. indirect ultra-long loop feedback
+```
+```
+Which of the following is a possible pathway for CRF to reach the pituitary?
+
+A. parvocellular arcuate nucleus neuron to tuberoinfundibular tract to hypophyseal portal vein to anterior pituitary This answer is CORRECT!
+
+B. magnocellular paraventricular neuron to tuberoinfundibular tract to hypophyseal portal vein to anterior pituitary
+
+C. parvocellular arcuate nucleus neuron to tuberoinfundibular tract to hypophyseal portal vein to posterior pituitary
+D. parvocellular arcuate nucleus neuron to hypothalamo-neurohypophyseal tract to hypophyseal portal vein to posterior pituitary
+E. parvocellular arcuate nucleus neuron to hypothalamo-neurohypophyseal tract to anterior pituitary
+```
+```
+All of the following statements about the posterior pituitary system are correct EXCEPT:
+
+A. Prolactin is secreted with neurophysin II. This answer is CORRECT!
+
+B. This system is characterized by reflexes with neural input and hormonal output.
+
+C. Neurons in the paraventricular and the supraoptic nuclei project to the posterior pituitary via the hypothalamo-neurohypophyseal tract.
+D. Inputs to the hypothalamus regulating the release of vasopressin include neurons with cell bodies in sensory ganglia of the peripheral nervous system.
+E. The blood supply to the posterior pituitary is provided by the inferior hypophyseal artery.
+```
+```
+All of the following statements about the anterior pituitary are correct EXCEPT:
+
+A. Hormones of the anterior pituitary are synthesized in the arcuate, periventricular and supraoptic nuclei of the hypothalamus.
+
+B. Single parvocellular neurons of the supraoptic nucleus can control the synthesis and release of more than one type of anterior pituitary hormone.
+C. Parvocellular neurons in the arcuate nucleus project to hypophyseal portal veins via the tuberoinfundibular tract. This answer is CORRECT!
+D. Anterior pituitary hormones are secreted in circadian patterns.
+E. The secretion of releasing hormones is controlled by multiple neurotransmitter systems of the brain.
+```
+```
+Which of the following is the intracellular second messenger that initiates the acuate phase response within neurons in the hypothalamus?
+
+A. IL-1β
+
+B. IL-6
+C. PGE2
+D. cAMP This answer is CORRECT!
+E. COX2
+```
+## Chapter 3
+```
+The most important hypothalamic nucleus for central regulation of the autonomic nervous system is the:
+
+A. periventricular nucleus
+
+B. paraventricular nucleus This answer is CORRECT!
+C. anterior nucleus
+D. posterior nucleus
+E. ventromedial nucleus
+```
+```
+In which of the following hypothalamic nuclei is the body temperature set-point encoded by temperature sensitive neurons?
+
+A. ventromedial nucleus
+
+B. dorsomedial nucleus
+C. arcuate nucleus
+D. paraventricular nucleus
+E. preoptic anterior nucleus This answer is CORRECT!
+```
+```
+Which hypothalamic nucleus is considered as the heat generation/conservation center?
+
+A. preoptic anterior nucleus
+
+B. paraventricular nucleus
+C. posterior nucleus This answer is CORRECT!
+
+D. supraoptic nucleus
+E. arcuate nucleus
+```
+```
+The principal pathway of the central autonomic network is the:
+
+A. medial forebrain bundle
+
+B. stria terminalis
+C. dorsal longitudinal fasciculus This answer is CORRECT!
+D. mammillotegmental tract
+E. spinohypothalamic tract
+```
+```
+Which of the following events best accounts for the generation of fever?
+
+A. Cool-sensitive neurons are inhibited by IL-1 and reduce heat loss.
+
+B. Warm-sensitive neurons are excited by prostaglandin E2 and increase heat gain.
+C. Temperative insensitive neurons increase the activity of disinhibited cool sensitive neurons. This answer is CORRECT!
+D. Neurons in the organum vasculosum inhibit warm sensitive neurons and stimulate cool sensitive neurons
+E. Pyrogens constrict blood vessels
+```
+## Chapter 4
+```
+Humoral satiety influence neural activity in all of the following sites EXCEPT:
+
+A. median eminence
+
+B. subfornical organ This answer is CORRECT!
+C. area postrema
+D. vagus nerve
+E. arcuate nucleus
+```
+```
+Leptin receptors are most abundant in which of the following hypothalamic nuclei?
+
+A. paraventricular
+
+B. periventricular
+C. preoptic/anterior
+D. ventromedial
+E. arcuate This answer is CORRECT!
+```
+```
+A successful new diet drug might have which of the following effects in the hypothalamus?
+
+A. Activates NPY receptors
+
+B. Blocks αMSH receptors
+C. Activates leptin receptors This answer is CORRECT!
+D. Stimulates AGRP synthesis
+E. Reduces CART synthesis
+```
+```
+In which of the following hypothalamic nuclei is the body weight set point best encoded?
+
+A. arcuate nucleus This answer is CORRECT!
+
+B. periventricular nucleus
+
+C. supraoptic nucleus
+D. preoptic anterior nucleus
+E. suprachiasmatic nucleus
+```
+```
+Which of the following functions is performed by the paraventricular nucleus in the hypothalamic circuitry of satiety?
+
+A. integrates humoral signals of satiety
+
+B. integrates emotional signals of satiety
+C. establishes tone in the central autonomic network This answer is CORRECT!
+
+D. integrates hormonal signals of satiety
+E. measures and encodes the caloric set point
+```
+## Chapter 5
+```
+The postcommissural fornix projects to which structure?
+
+A. Substantia innominata.
+
+B. Mammillary bodies This answer is CORRECT!
+
+It is the postcommissural branch of the fornix that goes to the mammillary bodies.
+C. Ventromedial nuclei of the hypothalamus
+D. Nucleus basalis of Meynert
+E. Anterior cingulate cortex.
+```
+```
+Which structure is NOT part of the Papez circuit?
+
+A. Anterior nucleus of the thalamus
+
+B. Ventral nucleus of the thalamus This answer is CORRECT!
+
+The ventral nucleus of the thalamus is not part of the Papez circuit.
+C. Cingulate gyrus
+D. Hippocampus
+E. Mammillary bodies
+```
+## Chapter 7
+```
+A 50-year old patient with recent damage to the hippocampus from a stroke would likely have all of the following deficits EXCEPT:
+
+A. Difficulty learning new facts
+
+B. Difficulty describing a recent event
+
+C. Difficulty learning a new vocabulary word
+
+D. Difficulty recalling a childhood memory This answer is CORRECT!
+
+The hippocampus is involved in the formation of new memories, but not in the storage of old memories after they have been consolidated.
+
+E. Difficulty remembering a face
+```
+```
+Short term memories can involve all of the following processes EXCEPT:
+
+A. Regulation of gene expression This answer is CORRECT!
+
+Regulation of gene expression is associated with long-term memories and not short-term memories.
+
+B. Activation of second-messenger systems
+
+C. Modulation of membrane channels
+
+D. Modulation of transmitter release
+```
+```
+Classical conditioning is an example of:
+
+A. Semantic memory
+
+B. Episodic memory
+
+C. Implicit memory This answer is CORRECT!
+D. Declarative memory
+
+E. Nonassociative memory
+```
+## Chapter 8
+```
+Patients with difficulty selecting words representing what they intend to say (semantic paraphasia), along with difficulty in repeating sentences is most often associated with:
+
+A. Broca aphasia
+
+B. Conduction aphasia
+C. Deficits in prosody
+D. Wernicke aphasia This answer is CORRECT!
+
+Wernicke aphasics have many more problems with word selection or repetition than transcortical and conduction aphasics.
+
+E. Transcortical aphasia
+```
+## Chapter 9
+```
+A 43-year old cerebral vascular accident patient was diagnosed as having persistent unilateral spatial agnosia or "visual neglect". What cerebral region was most likely involved?
+
+A. Non-dominant parietal-occipital cortex This answer is CORRECT!
+
+Lesions of the right posterior parietal visuocortex (i.e., parietal-occipital cortex) most likely produces visual neglect. This would be in the right hemisphere for right handers producing left visual neglect. While occasionally lesions of the dominant parietal-occipital hemisphere (e.g., left hemisphere in the right handers) can produce visual neglect on the dominant site, it is less likely than the correct answer.
+
+B. Dominant parietal-occipital cortex
+
+C. Dorsal prefrontal cortex
+D. Dominant temporal-occipital cortex
+E. Non-dominant temporal-occipital cortex
+```
+## Chapter 10
+```
+The following is evidence that Alzheimer’s disease is not merely exaggerated normal biological aging.  Only Alzheimer’s disease brains have:
+
+A. neuritic plaques
+
+B. neurofibrillary tangles
+
+C. hypo-phosphorylated tau
+
+D. tau distributed throughout the neurons This answer is CORRECT!
+
+The MAP tau is found throughout neurons in AD, whereas in normal brains this MAP is found only in the axons and NOT in the dendrites.
+```
+```
+“Sporadic” Alzheimer’s disease has
+
+A. primarily a genetic cause
+B. primarily a environmental cause
+C. primarily an infectious cause
+D. a combination of genetic, environmental, and infectious causes This answer is CORRECT!
+
+AD is believed to be caused by the combination of environmental factors, infectious agents and inflammation that come together with the person’s genetic predisposition to produce the disease.
+```
+```
+The diagnosis “Definite Alzheimer’s Disease” is established by:
+
+A. autopsy of the patient’s brain This answer is CORRECT!
+
+The psychiatric manual (DSM-IV, Diagnostic and Statistical Manual of Mental Disorders) requires that brain tissue be examined for senile plaques and neuritic tangles to establish "definite Alzheimer's disease".
+B. behavioral analysis
+C. PET analysis
+D. CAT analysis
+E. MRI analysis
+```
+```
+Which of the following is not implicated via direct linkage to “Familial" Alzheimer’s Disease?
+
+A. ApoE4 This answer is CORRECT!
+
+ApoE4 is a risk factor for Familial Alzheimer’s disease, not a direct link.
+B. APP
+C. Presenilin 1 (PS-1)
+D. Presenilin 2 (PS-2)
+
+E. All of the above are implicated by direct linkage.
+```
+## Chapter 12
+```
+An elderly person suffered relatively mild head trauma, but subsequently developed a progressive dementia over the course of several weeks, is most likely to have sustained which of the following?
+
+A. An acute subdural hematoma
+
+B. An acute epidural hematoma
+C. A chronic subdural hematoma This answer is CORRECT!
+
+Chronic subdural hematoma is relatively common in elderly and in patients receiving renal dialysis. Subdural hematoma can be identified on CT scanning or by MRI.
+D. An intracerebral hematoma
+E. An intracerebellar hematoma
+```
+```
+In automobile accidents, collision with the windshield at high speed is highly likely to produce an intracranial hemorrhage in which one of the following structures?
+
+A. Occipital
+
+B. Thalamus
+C. Putamen
+D. Parietal lobe
+E. Temporal lobe This answer is CORRECT!
+
+The temporal lobes and the inferior frontal lobes are frequently involved in traumatic brain injury. The continued forward movement of the brain within the bony cranial vault which has suddenly decelerated at impact leads to these anterior brain structures striking the inside of the skull with great force creating contusion in these areas.
+```
